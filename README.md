@@ -14,3 +14,4 @@ Formulae maintained in this tap:
 
  - scam [link](http://beastie.cs.ua.edu/scam/)
  - todayview [link](https://github.com/aeewhite/todayview)
+ - todayfile [link](https://github.com/aeewhite/todayfile)
