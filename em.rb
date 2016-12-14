@@ -1,9 +1,9 @@
 class Em < Formula
   desc "An interpreted, dynamically typed language written in Java"
   homepage "https://github.com/aeewhite/Em"
-  url "https://github.com/aeewhite/Em/archive/1.2.0.tar.gz"
+  url "https://github.com/aeewhite/Em/archive/1.2.1.tar.gz"
   head "https://github.com/aeewhite/Em.git"
-  sha256 "2adeff4afb1a682558a202c7c638e1e019440914d664ec17bc2c2e5b47435e13"
+  sha256 "de0e7ce331f796809830c435113f542d203421297c575a5efcd294857f5ee364"
 
   depends_on java: '>=8'
 
