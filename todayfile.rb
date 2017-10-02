@@ -1,8 +1,8 @@
 class Todayfile < Formula
   desc "Create a file using today's date"
   homepage "https://github.com/aeewhite/todayfile"
-  url "https://github.com/aeewhite/todayfile/archive/1.0.tar.gz"
-  sha256 "5ce6eac33b200d2a8a1e146c8aa8bdfb2a99b278f2fd377a93044283745a3ff4"
+  url "https://github.com/aeewhite/todayfile/archive/1.1.tar.gz"
+  sha256 "8c87512abeb8688c3e79c2c270106a7af9765970cb6cef73f05f1e121be68e99"
 
   def install
     system "make"
